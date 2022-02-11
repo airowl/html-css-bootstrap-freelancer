@@ -1,0 +1,23 @@
+
+header{
+    height: 3rem;
+}
+
+.my-bg-blue{
+    background-color: blue;
+}
+
+nav{
+    background-color: aqua;
+}
+
+section.my-hero{
+    background-color: bisque;
+    height: 20rem;
+}
+
+div.my-box{
+    width: 100%;
+    height: 20rem;
+    border: 1px solid red;
+}
