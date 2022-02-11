@@ -21,3 +21,10 @@ div.my-box{
     height: 20rem;
     border: 1px solid red;
 }
+
+section.my-portfolio{
+    background-color: brown;
+}
+
+section.my-about,
+section.my-contact-me
