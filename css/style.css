@@ -22,9 +22,22 @@ div.my-box{
     border: 1px solid red;
 }
 
+.my-div-60{
+    width: 60%;
+    margin: 0 auto;
+}
+
 section.my-portfolio{
     background-color: brown;
 }
 
-section.my-about,
-section.my-contact-me
+section.my-about{
+    background-color: blueviolet;
+}
+section.my-contact-me{
+    background-color: darkorange;
+}
+
+footer{
+    background-color: mediumturquoise;
+}
