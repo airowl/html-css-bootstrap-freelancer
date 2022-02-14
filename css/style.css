@@ -28,8 +28,9 @@ div.my-box{
 }
 
 section.my-about{
-    background-color: blueviolet;
+    background-color: #1abc9c;
 }
+
 section.my-contact-me{
     background-color: darkorange;
 }
