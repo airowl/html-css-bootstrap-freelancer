@@ -22,11 +22,24 @@ div.my-box{
     width: 100%;
 }
 
-.my-div-60{
-    width: 60%;
-    margin: 0 auto;
+footer .my-footer-top{
+    background-color: #3a546d;
 }
 
-footer{
-    background-color: mediumturquoise;
+footer .my-footer-bottom{
+    background-color: #2c3e50;
+}
+
+.icon-bg{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 1px solid white;
+    line-height: 2.4rem;
+    margin-right: 1rem;
+}
+
+.footer-link{
+    color: #1abc9c;
+    text-decoration: none;
 }
