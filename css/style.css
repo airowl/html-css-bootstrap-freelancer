@@ -20,16 +20,11 @@ section.my-hero .my-img-avatar{
 
 div.my-box{
     width: 100%;
-    height: 20rem;
-    border: 1px solid red;
 }
 
 .my-div-60{
     width: 60%;
     margin: 0 auto;
-}
-
-section.my-portfolio{
 }
 
 section.my-about{
