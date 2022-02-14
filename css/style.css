@@ -1,11 +1,17 @@
 
 section.my-hero{
     background-color: #1abc9c;
-    height: 20rem;
 }
 
-section.my-hero .img-avatar{
+section.my-hero .my-img-avatar{
     height: 10rem;
+}
+
+.my-line{
+    width: 10%;
+    height: 4px;
+    border-radius: 4px;
+    background-color: white;
 }
 
 div.my-box{
