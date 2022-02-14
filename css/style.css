@@ -1,5 +1,5 @@
 
-section.my-hero{
+section.my-hero, section.my-about, .my-bg-cyan{
     background-color: #1abc9c;
 }
 
@@ -25,14 +25,6 @@ div.my-box{
 .my-div-60{
     width: 60%;
     margin: 0 auto;
-}
-
-section.my-about{
-    background-color: #1abc9c;
-}
-
-section.my-contact-me{
-    background-color: darkorange;
 }
 
 footer{
