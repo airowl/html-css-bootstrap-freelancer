@@ -1,19 +1,11 @@
 
-header{
-    height: 3rem;
-}
-
-.my-bg-blue{
-    background-color: blue;
-}
-
-nav{
-    background-color: aqua;
-}
-
 section.my-hero{
-    background-color: bisque;
+    background-color: #1abc9c;
     height: 20rem;
+}
+
+section.my-hero .img-avatar{
+    height: 10rem;
 }
 
 div.my-box{
